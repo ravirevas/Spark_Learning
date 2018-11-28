@@ -1,4 +1,4 @@
-#how to install pyspark on windows10
+how to install pyspark on windows10
 
 1. Download python 3.6
 2. Download spark 2.4
